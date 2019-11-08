@@ -1,0 +1,3 @@
+<%newSecretPost.forEach(function(item){%>
+  <p class="secret-text"><%=item.secret%></p>
+<%});%>
